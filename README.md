@@ -106,10 +106,10 @@ u = User
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
-###Do's
+### Do's
 1. To search the stories: Keyword first, tags later
 2. Repair the 'More Stories' Button
 
-###Don't's
+### Don't's
 1. Adds and another recomended story in application version.
 2. To go straight into the story, but, when back not go straight to the search.
