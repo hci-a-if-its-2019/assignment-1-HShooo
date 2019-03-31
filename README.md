@@ -113,3 +113,12 @@ u = User
 ### Don't's
 1. Adds and another recomended story in application version.
 2. To go straight into the story, but, when back not go straight to the search.
+
+# Remarks
+> * Your assignment lacks of Models. However, the other parts are adequately written.
+> * In my opinion some instructions for the tasks could be more specific. Rather than saying to the user to type any keyword on her mind, you might ask the keyword and let her speak it out, then type it subsequently.
+> * Also, it would be better if the second item in `Do's` section is more elaborative: how particularly the `more stories UI` should be repaired? relocated? recolored? etc.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 1                | 2               | 56,5               | 59,5       | 57,1  |
